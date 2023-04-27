@@ -1,3 +1,3 @@
 # PifagorApp
-##Simple Pifagor app
-###one of the first apps
+## Simple Pifagor app
+### One of the first apps
